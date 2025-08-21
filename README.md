@@ -63,8 +63,8 @@ jupyter lab
 e siga o mesmo procedimento.
 
 ## Notas
- - Para uma visão mais completa sobre o projeto, confira o [artigo]().
- - Confira também a apresentação em [vídeo]().
+ - Para uma visão mais completa sobre o projeto, confira o [artigo](https://drive.google.com/file/d/1xIgqnQ7Zx9x2RRdgnWQlwhc1uEIuPMtG/view?usp=sharing ).
+ - Confira também a apresentação em [vídeo](https://youtu.be/nNccDnp7Tyc).
  - Os detalhes de implementação estão documentados no código.
 
 ## Contribuidores
